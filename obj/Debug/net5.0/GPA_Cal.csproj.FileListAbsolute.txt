@@ -1,0 +1,31 @@
+/Users/holyfakmyname/Documents/C#/GPA_Cal/bin/Debug/net5.0/GPA_Cal.deps.json
+/Users/holyfakmyname/Documents/C#/GPA_Cal/bin/Debug/net5.0/GPA_Cal.runtimeconfig.json
+/Users/holyfakmyname/Documents/C#/GPA_Cal/bin/Debug/net5.0/GPA_Cal.runtimeconfig.dev.json
+/Users/holyfakmyname/Documents/C#/GPA_Cal/bin/Debug/net5.0/GPA_Cal.dll
+/Users/holyfakmyname/Documents/C#/GPA_Cal/bin/Debug/net5.0/ref/GPA_Cal.dll
+/Users/holyfakmyname/Documents/C#/GPA_Cal/bin/Debug/net5.0/GPA_Cal.pdb
+/Users/holyfakmyname/Documents/C#/GPA_Cal/obj/Debug/net5.0/GPA_Cal.csproj.AssemblyReference.cache
+/Users/holyfakmyname/Documents/C#/GPA_Cal/obj/Debug/net5.0/GPA_Cal.GeneratedMSBuildEditorConfig.editorconfig
+/Users/holyfakmyname/Documents/C#/GPA_Cal/obj/Debug/net5.0/GPA_Cal.AssemblyInfoInputs.cache
+/Users/holyfakmyname/Documents/C#/GPA_Cal/obj/Debug/net5.0/GPA_Cal.AssemblyInfo.cs
+/Users/holyfakmyname/Documents/C#/GPA_Cal/obj/Debug/net5.0/GPA_Cal.csproj.CoreCompileInputs.cache
+/Users/holyfakmyname/Documents/C#/GPA_Cal/obj/Debug/net5.0/GPA_Cal.dll
+/Users/holyfakmyname/Documents/C#/GPA_Cal/obj/Debug/net5.0/ref/GPA_Cal.dll
+/Users/holyfakmyname/Documents/C#/GPA_Cal/obj/Debug/net5.0/GPA_Cal.pdb
+/Users/holyfakmyname/Documents/C#/GPA_Cal/obj/Debug/net5.0/GPA_Cal.genruntimeconfig.cache
+E:\Coding\programming.in.th\C# 101\GPA_Cal\bin\Debug\net5.0\GPA_Cal.exe
+E:\Coding\programming.in.th\C# 101\GPA_Cal\bin\Debug\net5.0\GPA_Cal.deps.json
+E:\Coding\programming.in.th\C# 101\GPA_Cal\bin\Debug\net5.0\GPA_Cal.runtimeconfig.json
+E:\Coding\programming.in.th\C# 101\GPA_Cal\bin\Debug\net5.0\GPA_Cal.runtimeconfig.dev.json
+E:\Coding\programming.in.th\C# 101\GPA_Cal\bin\Debug\net5.0\GPA_Cal.dll
+E:\Coding\programming.in.th\C# 101\GPA_Cal\bin\Debug\net5.0\ref\GPA_Cal.dll
+E:\Coding\programming.in.th\C# 101\GPA_Cal\bin\Debug\net5.0\GPA_Cal.pdb
+E:\Coding\programming.in.th\C# 101\GPA_Cal\obj\Debug\net5.0\GPA_Cal.csprojAssemblyReference.cache
+E:\Coding\programming.in.th\C# 101\GPA_Cal\obj\Debug\net5.0\GPA_Cal.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\programming.in.th\C# 101\GPA_Cal\obj\Debug\net5.0\GPA_Cal.AssemblyInfoInputs.cache
+E:\Coding\programming.in.th\C# 101\GPA_Cal\obj\Debug\net5.0\GPA_Cal.AssemblyInfo.cs
+E:\Coding\programming.in.th\C# 101\GPA_Cal\obj\Debug\net5.0\GPA_Cal.csproj.CoreCompileInputs.cache
+E:\Coding\programming.in.th\C# 101\GPA_Cal\obj\Debug\net5.0\GPA_Cal.dll
+E:\Coding\programming.in.th\C# 101\GPA_Cal\obj\Debug\net5.0\ref\GPA_Cal.dll
+E:\Coding\programming.in.th\C# 101\GPA_Cal\obj\Debug\net5.0\GPA_Cal.pdb
+E:\Coding\programming.in.th\C# 101\GPA_Cal\obj\Debug\net5.0\GPA_Cal.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+/Users/holyfakmyname/Documents/C#/class_learn/bin/Debug/net5.0/class_learn.deps.json
+/Users/holyfakmyname/Documents/C#/class_learn/bin/Debug/net5.0/class_learn.runtimeconfig.json
+/Users/holyfakmyname/Documents/C#/class_learn/bin/Debug/net5.0/class_learn.runtimeconfig.dev.json
+/Users/holyfakmyname/Documents/C#/class_learn/bin/Debug/net5.0/class_learn.dll
+/Users/holyfakmyname/Documents/C#/class_learn/bin/Debug/net5.0/ref/class_learn.dll
+/Users/holyfakmyname/Documents/C#/class_learn/bin/Debug/net5.0/class_learn.pdb
+/Users/holyfakmyname/Documents/C#/class_learn/obj/Debug/net5.0/class_learn.csproj.AssemblyReference.cache
+/Users/holyfakmyname/Documents/C#/class_learn/obj/Debug/net5.0/class_learn.GeneratedMSBuildEditorConfig.editorconfig
+/Users/holyfakmyname/Documents/C#/class_learn/obj/Debug/net5.0/class_learn.AssemblyInfoInputs.cache
+/Users/holyfakmyname/Documents/C#/class_learn/obj/Debug/net5.0/class_learn.AssemblyInfo.cs
+/Users/holyfakmyname/Documents/C#/class_learn/obj/Debug/net5.0/class_learn.csproj.CoreCompileInputs.cache
+/Users/holyfakmyname/Documents/C#/class_learn/obj/Debug/net5.0/class_learn.dll
+/Users/holyfakmyname/Documents/C#/class_learn/obj/Debug/net5.0/ref/class_learn.dll
+/Users/holyfakmyname/Documents/C#/class_learn/obj/Debug/net5.0/class_learn.pdb
+/Users/holyfakmyname/Documents/C#/class_learn/obj/Debug/net5.0/class_learn.genruntimeconfig.cache
